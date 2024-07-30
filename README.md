@@ -8,7 +8,6 @@
 
 Sou um apaixonado por tecnologia, atualmente focado em estudar Python e explorar o vasto universo dos dados. Sempre em busca de novos conhecimentos e desafios, acredito que a captura, análise, entrega e interpretação de dados são essenciais para moldar o futuro.
 - 🌱 Atualmente, estou aprofundando meus conhecimentos em Python e engenharia de dados.
-- 💬 Sinta-se à vontade para me perguntar sobre desenvolvimento, tecnologia e corrida.
 - 📫 Você pode me encontrar em: [fcorreiaandrade@gmail.com](mailto:fcorreiaandrade@gmail.com)
 
 ## Estatísticas do GitHub
