@@ -7,13 +7,17 @@
 ## Sobre mim
 
 Sou um apaixonado por tecnologia, atualmente focado em estudar Python e explorar o vasto universo dos dados. Sempre em busca de novos conhecimentos e desafios, acredito que a captura, análise, entrega e interpretação de dados são essenciais para moldar o futuro.
+
 - 🌱 Atualmente, estou aprofundando meus conhecimentos em Python e engenharia de dados.
 - 📫 Você pode me encontrar em: [fcorreiaandrade@gmail.com](mailto:fcorreiaandrade@gmail.com)
 
-## Estatísticas do GitHub
+## 🚀 Minhas Ferramentas e Tecnologias
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Percon12&layout=compact&langs_count=7&theme=chartreuse-dark" alt="Linguagens mais usadas">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 ## Conecte-se comigo
